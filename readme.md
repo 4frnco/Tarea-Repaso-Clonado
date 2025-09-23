@@ -1,5 +1,3 @@
-# Titulo: Las mariposas
+# Hola Mundo
 
-## Subtitulo: Colores
-
-Las **mariposas** tienen muchos colores pero las hay sin colores
+## Que tal?
